@@ -1,0 +1,15 @@
+int main()
+{
+    int i;
+    int j;
+    int cnt;
+    i=1;
+    cnt=0;
+    while(true){
+        if(i>=20) {
+            break;
+        }
+        cnt+=1;
+        i++;
+    }
+}
